@@ -15,4 +15,4 @@
 
 ### Language and Tools:
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.intlum.com%2Fblog%2Fweb-development-tools%2F&psig=AOvVaw2f987FMSeV9PKKTGAGUMAv&ust=1618047043950000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDt6pXt8O8CFQAAAAAdAAAAABAD"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEZHGvkWUsJtwEdp9foBGqCjq2vQ0TT27-5waYa5K1VQobw_vTo-hCm8K9-oad9R8RwgY&usqp=CAU"/>
